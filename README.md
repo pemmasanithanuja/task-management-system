@@ -88,7 +88,7 @@ python app.py
 ### Open in your browser
 
 ```
-http://127.0.0.1:5000/
+https://github.com/pemmasanithanuja/task-management-system/blob/main/todo_list.py
 ```
 
 ---
